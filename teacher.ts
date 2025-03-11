@@ -1,4 +1,3 @@
-// agent.ts - Part 1
 
 // Import dotenv to load environment variables from .env file
 import * as dotenv from 'dotenv';
